@@ -1,2 +1,1 @@
-# WEB-DEV-JAVASCRIPT-PROJECTS
-Turning ideas into interactive web experiences. 🚀 This repository contains  projects built with HTML, CSS, and JavaScript, documenting my journey of learning, experimenting, and growing as a web developer through consistent hands-on practice.
+A collection of web development projects built with HTML, CSS, and JavaScript. Each project reflects my learning journey, hands-on practice, and passion for building responsive and interactive web experiences.
